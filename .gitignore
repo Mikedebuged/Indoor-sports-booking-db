@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Output spooled from SQL*Plus or SQLcl
+*.log
+*.lst
+
+# Word files and their lock files.
+# The mid-term report lists student IDs, so it stays out of the repo.
+*.docx
+~$*
+
+# Editor settings
+.vscode/
+.idea/
